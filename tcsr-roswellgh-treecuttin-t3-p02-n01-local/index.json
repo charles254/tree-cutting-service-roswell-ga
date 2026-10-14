@@ -1,0 +1,31 @@
+{
+  "nodeCode": "TCSR-ROSWELLGH-TREECUTTIN-T3-P02-N01-LOCAL",
+  "slug": "tcsr-roswellgh-treecuttin-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Severe Storm Damage Recovery, Fallen Timber & Rapid Cleanup in Roswell",
+  "canonical": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t3-p02-n01-local/",
+  "primaryEntity": "ISA Certified Arborist Assessments & Tree Risk Health Audits",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t2-p01-n02-local/",
+      "anchor": "How to Prepare Your Roswell Property for Tree Removal — Site Planning",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://www.treesaregood.org/findanarborist",
+    "https://treecuttingserviceroswellga.net/",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/storm-cleanup",
+    "https://treecuttingserviceroswellga.net/services/dead-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/land-clearing",
+    "https://treecuttingserviceroswellga.net/services/tree-cabling-bracing",
+    "https://en.wikipedia.org/wiki/Arboriculture"
+  ]
+}
