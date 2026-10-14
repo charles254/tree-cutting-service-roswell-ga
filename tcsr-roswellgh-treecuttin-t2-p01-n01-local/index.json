@@ -1,0 +1,31 @@
+{
+  "nodeCode": "TCSR-ROSWELLGH-TREECUTTIN-T2-P01-N01-LOCAL",
+  "slug": "tcsr-roswellgh-treecuttin-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Signs a Tree Requires Professional Assessment in Roswell GA — Health Guide",
+  "canonical": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t2-p01-n01-local/",
+  "primaryEntity": "Precision Sectional Tree Removal & Rigging Mechanics",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t1-p00-n01-local/",
+      "anchor": "Tree Cutting Service & Tree Removal in Roswell GA — Property Owner Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/storm-cleanup",
+    "https://treecuttingserviceroswellga.net/services/dead-tree-removal",
+    "https://treecuttingserviceroswellga.net/",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/land-clearing",
+    "https://treecuttingserviceroswellga.net/services/tree-cabling-bracing",
+    "https://www.treesaregood.org/findanarborist",
+    "https://en.wikipedia.org/wiki/Arboriculture"
+  ]
+}
