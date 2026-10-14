@@ -1,0 +1,31 @@
+{
+  "nodeCode": "TCSR-ROSWELLGH-EMERGENCYT-T2-P02-N01-LOCAL",
+  "slug": "tcsr-roswellgh-emergencyt-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "City of Roswell Tree Preservation Ordinances & Municipal Permit Codes",
+  "canonical": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-emergencyt-t2-p02-n01-local/",
+  "primaryEntity": "Sub-grade Stump Grinding & Root Flare Remediation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-emergencyt-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency Tree Removal & Storm Damage Clearance in Roswell GA",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/storm-cleanup",
+    "https://treecuttingserviceroswellga.net/services/dead-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/land-clearing",
+    "https://treecuttingserviceroswellga.net/services/tree-cabling-bracing",
+    "https://www.treesaregood.org/findanarborist",
+    "https://treecuttingserviceroswellga.net/",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://en.wikipedia.org/wiki/Arboriculture"
+  ]
+}
