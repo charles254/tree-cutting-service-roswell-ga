@@ -91,6 +91,29 @@ dl dd { margin: .15rem 0 0; color: var(--muted); }
 .footer-sep { color: var(--line); }
 img { max-width: 100%; height: auto; }
 code { background: var(--surface); padding: .1rem .3rem; border-radius: .25rem; }
+.cloud-ring-callout { background: #f0fdf4; border: 1px solid #bbf7d0; border-left: 4px solid #16a34a; border-radius: 8px; padding: 1.25rem; margin: 2rem 0; }
+.ring-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.5rem; }
+.ring-badge { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; background: #dcfce7; color: #15803d; padding: 0.2rem 0.5rem; border-radius: 4px; }
+.cloud-ring-callout h3 { margin: 0; font-size: 1.15rem; color: #14532d; }
+.ring-action { margin-top: 0.75rem; }
+.btn-ring { display: inline-block; font-weight: 700; color: #15803d; text-decoration: underline; font-size: 1rem; }
+.btn-ring:hover { color: #166534; }
+.cloud-federation-network { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.5rem; margin: 2.5rem 0; }
+.federation-header h2 { margin-top: 0; font-size: 1.3rem; color: var(--fg); }
+.federation-subtitle { color: var(--muted); font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.25rem; }
+.cloud-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
+.cloud-card { background: #ffffff; border: 1px solid var(--line); border-radius: 8px; padding: 1rem; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.15s ease; }
+.cloud-card:hover { border-color: #cbd5e1; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+.cloud-card.is-current { border-color: var(--accent); background: #f8fafc; box-shadow: 0 0 0 1px var(--accent); }
+.cloud-card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
+.cloud-name { font-weight: 700; font-size: 0.95rem; color: var(--fg); }
+.cloud-badge { font-size: 0.7rem; font-weight: 600; padding: 0.15rem 0.4rem; border-radius: 4px; background: #e2e8f0; color: #475569; }
+.cloud-card.is-current .cloud-badge { background: #dbeafe; color: #1d4ed8; }
+.cloud-role { font-size: 0.85rem; color: var(--muted); line-height: 1.4; margin: 0 0 0.75rem; }
+.cloud-link-wrap { margin-top: auto; font-size: 0.85rem; }
+.cloud-status-current { color: #16a34a; font-weight: 600; }
+.cloud-ext-link { color: var(--accent); text-decoration: none; font-weight: 600; }
+.cloud-ext-link:hover { text-decoration: underline; }
 @media (max-width: 40rem) {
   body { padding: 0 .85rem 2rem; }
   table { display: block; overflow-x: auto; }
