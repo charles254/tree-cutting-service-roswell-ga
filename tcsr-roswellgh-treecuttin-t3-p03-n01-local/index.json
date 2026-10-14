@@ -1,0 +1,31 @@
+{
+  "nodeCode": "TCSR-ROSWELLGH-TREECUTTIN-T3-P03-N01-LOCAL",
+  "slug": "tcsr-roswellgh-treecuttin-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Lot Clearing, Underbrush Mastication & Site Prep in Roswell GA",
+  "canonical": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t3-p03-n01-local/",
+  "primaryEntity": "Chattahoochee Watershed Tree Protection & Slope Soil Stabilization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t2-p01-n03-local/",
+      "anchor": "Tree Removal Cost Factors & Pricing Guide in Roswell GA — Honest Estimates",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/storm-cleanup",
+    "https://treecuttingserviceroswellga.net/services/dead-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/land-clearing",
+    "https://treecuttingserviceroswellga.net/services/tree-cabling-bracing",
+    "https://www.treesaregood.org/findanarborist",
+    "https://en.wikipedia.org/wiki/Arboriculture"
+  ]
+}
