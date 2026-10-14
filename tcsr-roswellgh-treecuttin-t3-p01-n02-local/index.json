@@ -1,0 +1,31 @@
+{
+  "nodeCode": "TCSR-ROSWELLGH-TREECUTTIN-T3-P01-N02-LOCAL",
+  "slug": "tcsr-roswellgh-treecuttin-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Sub-Grade Stump Grinding, Root Flare Removal & Turf Prep in Roswell GA",
+  "canonical": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t3-p01-n02-local/",
+  "primaryEntity": "Dynamic Synthetic Tree Cabling & Supplemental Steel Rod Bracing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-roswell-ga/tcsr-roswellgh-treecuttin-t2-p01-n01-local/",
+      "anchor": "Signs a Tree Requires Professional Assessment in Roswell GA — Health Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/services/tree-cabling-bracing",
+    "https://www.treesaregood.org/findanarborist",
+    "https://treecuttingserviceroswellga.net/",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/storm-cleanup",
+    "https://treecuttingserviceroswellga.net/services/dead-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/land-clearing",
+    "https://en.wikipedia.org/wiki/Arboriculture"
+  ]
+}
