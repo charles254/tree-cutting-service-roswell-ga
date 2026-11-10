@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://charles254.github.io/tree-cutting-service-roswell-ga/sitemap.xml
+Sitemap: https://tree-cutting-service-roswell-ga.pages.dev/sitemap.xml
