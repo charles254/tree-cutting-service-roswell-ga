@@ -1,0 +1,31 @@
+{
+  "nodeCode": "TCSR-ROSWELL-EMERGENCYT-T1-P00-N02-LOCAL",
+  "slug": "tcsr-roswell-emergencyt-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "24/7 Emergency Tree Removal & Storm Damage Clearance in Roswell GA",
+  "canonical": "https://tree-cutting-service-roswell-ga.pages.dev/tcsr-roswell-emergencyt-t1-p00-n02-local/",
+  "primaryEntity": "24/7 Emergency Tree Removal & Rapid Hazard Triage",
+  "outgoingLinks": [
+    {
+      "url": "https://treecuttingserviceroswellga.net/service-areas/alpharetta#tree-cutting-service",
+      "anchor": "emergency tree cutting service in Alpharetta GA",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/storm-cleanup",
+    "https://treecuttingserviceroswellga.net/",
+    "https://treecuttingserviceroswellga.net/services/dead-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/land-clearing",
+    "https://treecuttingserviceroswellga.net/services/tree-cabling-bracing",
+    "https://www.treesaregood.org/findanarborist",
+    "https://en.wikipedia.org/wiki/Arboriculture"
+  ]
+}
