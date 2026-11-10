@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tree-cutting-service-roswell-ga.pages.dev/tcsr-roswell-emergencyt-t3-p04-n01-local/sitemap.xml
